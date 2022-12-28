@@ -1,0 +1,47 @@
+* {
+    background-color: beige;
+}
+
+.titulo{
+    margin-top: 100px;
+    margin-left: 35%;
+}
+
+.quadro {
+    width: 500px;
+    height: 700px;
+    margin: auto;
+    position: relative;
+    
+}
+
+.quadro img {
+    width: 70%;
+    height: 80%;
+    border: 20px solid blue;
+    position: ;
+    box-shadow: 4px 4px 15px grey;
+
+}
+
+.quadro_dentro1{
+position: absolute;
+padding: 0;
+margin: 0;
+width: 70%;
+margin-left: 15px;
+top: 490px;
+background: none;
+
+
+
+}
+
+.quadro_dentro1 h3{
+    background: none;
+    text-align: center;
+    font-family: cursive;
+    font-style:;
+    color: white;
+    text-shadow: 5px 5px 15px black;
+}
